@@ -15,9 +15,14 @@ renderContentOn: html
 	moment activities
 		do: [ :each | 
 			html paragraph
-				with: [ html
-						strong: each name , ': ';
-						text: each description ] ].
+				with: [ html anchor
+						callback: [ self
+								call:
+									(PGWActivityComponent new
+										activity: each;
+										yourself) ];
+						with: [ html strong: each name , ': ' ].
+					html text: each description ] ].
 	html heading
 		level: 2;
 		with: 'Resultado esperado'.
