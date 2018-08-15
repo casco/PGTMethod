@@ -16,4 +16,9 @@ renderContentOn: html
 	html heading
 		level: 2;
 		with: 'Estrategias de colaboración'.
-	activity collaborationStrategies do: [ :each | html paragraph: each ]
+	activity collaborationStrategies
+		do: [ :each | 
+			html paragraph
+				with: [ html
+						strong: each name , ': ';
+						text: each description ] ]
