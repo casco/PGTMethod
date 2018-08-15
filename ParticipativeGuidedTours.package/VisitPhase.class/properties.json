@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ParticipativeGuidedTours-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"motivation",
+		"moments"
+	],
+	"name" : "VisitPhase",
+	"type" : "normal"
+}

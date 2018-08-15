@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "ParticipativeGuidedTours-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"activity"
+	],
+	"name" : "PGWActivityComponent",
+	"type" : "normal"
+}
