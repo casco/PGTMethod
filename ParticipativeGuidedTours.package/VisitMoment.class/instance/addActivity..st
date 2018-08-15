@@ -1,3 +1,3 @@
 accessing
-addActivitie: anActivity
+addActivity: anActivity
 	activities add: anActivity 

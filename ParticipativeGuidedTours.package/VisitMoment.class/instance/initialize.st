@@ -1,3 +1,3 @@
 initialize
 initialize
-  ^activities := OrderedCollection new.
+  activities := OrderedCollection new.
