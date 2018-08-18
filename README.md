@@ -13,3 +13,11 @@ A toolset to support facilitation using the thinklets approach
   2. The participant can disagree with any of the ideas in the page, by arguing against it, then submitting.
   3. The participant can contribute a completely new idea, then submitting.
 7. The is a time counter at the top. The activity continues until the group runs out of time, or the facilitator says so.
+
+## OnePage 
+1. One single page for all users
+2. The brainstorming question
+3. Participants type an idea (up-to 400 chars) then click submit. The idea is visible to everyone
+4. The is a time counter at the top. The activity continues until the group runs out of time, or the facilitator says so.
+
+
