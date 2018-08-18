@@ -1,2 +1,2 @@
-# PGTMethod
-A methodology support tool for Participative Guided Tours
+# thinklets-companion
+A toolset to support facilitation using the thinklets approach
