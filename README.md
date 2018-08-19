@@ -33,8 +33,14 @@ A toolset to support facilitation using the thinklets approach
 
 # Thinklets for divergence - with seeds
 ## LeafHopper
+1. Start with a list of topics to be discussed.
+2. Participants can see al topics and choose those they want to contribute to.
+3. Depending on the size of the group, each topic can work as in OnePage or FreeBrainstorming
 
 ## DealersChoice
+1. Start with a list of topics to be discussed.
+2. The facilitator assigns participants to topics.
+3. Depending on the size of the group, each topic can work as in OnePage or FreeBrainstorming
 
 ## Plus-Minus-Interesting
 1. Start with a list of ideas to be elaborated
@@ -48,12 +54,16 @@ A toolset to support facilitation using the thinklets approach
 3. This process can be iterated until all items are transisioned to the next step or until time is up.
 
 ## BranchBuilder
+1. Start with a list of topics in outline form (e.g., in a shard google doc)
+2. Participants add (synchrounously) subtopics to the outline. 
 
 ## TheLobbyist
+1. Start with a set of items that are ready to be evaluated (e.g., the results of brainstorming).
+2. One at a time, ask each participant can argue in favor of an item they like to be brought to the next stage. 
 
 # Thinklets for divergence - variations
-
 ## OneMinuteMadness
+
 
 # Thinklets for convergence (Clarification and reduction)
 
